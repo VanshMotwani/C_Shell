@@ -1,0 +1,15 @@
+xt
+ping 20185 19
+bg 20185
+ping 20185 19
+bg 20185
+[A[A
+bg 20185
+neonate -n 1
+iMan sleep
+ping 20020 19
+iMan sleep
+bg 20051
+iMan sleep
+ping 20051 19
+peek -l | grep input > outfile.txt
